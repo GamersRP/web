@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="485" height="152" viewBox="0 0 485 152">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 150px;
+        font-family: VALORANT;
+      }
+
+      .cls-2 {
+        font-size: 33.333px;
+        font-family: Rubik;
+        font-style: italic;
+      }
+
+      .cls-2, .cls-3 {
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        font-size: 66.667px;
+        fill: #242424;
+        font-family: "Segoe Print";
+      }
+    </style>
+  </defs>
+  <text id="G" class="cls-1" transform="translate(-2.812 129.635) scale(1.163)">G</text>
+  <text id="AMERS" class="cls-2" transform="translate(120.911 121.144) scale(1.903)">AMERS</text>
+  <text id="RP" class="cls-3" transform="translate(353.048 110.117) rotate(-14.201) scale(1.309)">RP</text>
+</svg>
